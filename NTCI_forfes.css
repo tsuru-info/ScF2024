@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+.HEAD{border-top:solid 3px #87cefa;
+      border-bottom:solid 3px #87cefa;
+      background:white;
+      display:flex;
+      width:100%;
+      text-align:center;
+      padding:10px;
+      align-items:center;
+     }
+a{
+  text-decoration:none;
+  transition-duration:0.5s;
+  }
+.toplink:hover{
+               color:#ffa500;
+              }
+.GONTA{width:33%;
+       padding:15px;
+      }
+.GONTA p{text-align:center;}
+.CLUB{width:33%;}
+.CLUB h1{font-family:serif;
+         color:skyblue;
+         font-size:50px;
+         }
+.CLUB h4{color:#ffd700;}
+.TSURUKOU{width:33%;
+          padding:15px;
+          }
+.heading{border-left:solid 8px #4169e1;
+         background:f0f8ff;
+         font-size:300%;
+         }
+.WORK{display:flex;
+      margin-right:30px;
+      align-items:center;
+      }
+.artwork{
+          display:flex;
+          justify-content:flex-start;
+          margin-left:0%;
+          align-items:flex-start;
+          width:100%;
+          padding-bottom:solid 3px #000000;
+          }
+.artflex{
+         display:flex;
+         align-items:flex-start;
+        }
+          }
+.MADE{display:flex;
+　　　padding:15px;
+      justify-content:space-around;
+      }
+.KAKOMU{border-top:solid 3px #000000;
+        border-bottom:solid 3px #000000;
+        border-left:solid 3px #000000;
+        border-right:solid 3px #000000;
+        margin-left:0;
+        margin-right:0;
+        }
+.RED{color:red;}
+.festext{
+         font-size:28px;
+         flex-wrap:nowrap;
+         }
+.feslink{
+         color:#4169e1;
+         font-size:150%;
+         transition-duration:0.8s;
+         transition-timing-function:ease-out;
+         }
+.feslink:hover{
+               color:#ff69b4;
+               background-color:#00ffff;
+               font-family:serif;
+               }
+.fesclick{
+          font-size:50px;
+          }
+.feshead{
+         font-size:400%;
+         }
+.fesmade{display:flex;
+　　　   padding:15px;
+         justify-content:space-around;
+         }
+.flex{
+      display:flex;
+      width:100%;
+      }
+.main{
+      width:70%;
+      background-color:red;
+     }
+.twitter{
+         width:30%;
+         height:50%;
+         }
+      
